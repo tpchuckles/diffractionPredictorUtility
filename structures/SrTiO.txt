@@ -1,0 +1,4 @@
+"Perovskite": { "pos":[ [0,0,0] , [.5,.5,.5] , [.5,.5,0],[.5,0,.5],[0,.5,.5] ] , "abc":5 , "atomic_number":[38,22,8,8,8]  }
+"Perovskite_Sr": { "pos":[ [0,0,0] ] , "abc":5 , "atomic_number":[38]  }
+"Perovskite_Ti": { "pos":[ [.5,.5,.5] ] , "abc":5 , "atomic_number":[22]  }
+"Perovskite_O": { "pos":[ [.5,.5,0],[.5,0,.5],[0,.5,.5] ] , "abc":5 , "atomic_number":[8,8,8]  }
